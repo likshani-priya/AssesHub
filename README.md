@@ -1,7 +1,7 @@
 # AssesHub - Online Assessment Platform
 
-Live Demo:
-https://LikshaniPriya.pythonanywhere.com
+Host Live Link:
+likshanipriya.pythonanywhere.com
 
 Project Description:
 A Django-based online assessment platform with role-based authentication, assessment creation, submission management, and malpractice detection features.
